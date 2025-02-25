@@ -18,7 +18,7 @@ body {
   background-size: cover;
   background-position: center;
   padding: 40px;
-  margin-top: 50px;
+ 
   overflow: hidden;
   filter: brightness(80%);
 }
